@@ -1,0 +1,9 @@
+body {
+    background-color: #ebf2ff;
+    font-family: "Poppins", sans-serif;
+  }
+
+  .cards__container{
+      margin: 0 30px;
+  }
+  

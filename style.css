@@ -6,4 +6,113 @@ body {
   .cards__container{
       margin: 0 30px;
   }
+
+
+
+
+
+
   
+
+ /* @media (min-width: 1440px) {
+      .navbar{
+          height:200px;
+          font-size: 80px;
+      }
+
+      .navbar-brand{
+          width: 200px;
+          height: 200px;
+          font-size: 110px;
+          padding-right: 60px;
+          margin-right: 300px;
+          margin-top: 20px;
+      }
+
+      .fas{
+          font-size: 50px;
+      }
+
+      .add__new{
+          margin-bottom: 30px;
+          padding-bottom: 50px;
+      } */
+
+    /*  .modal-footer{
+          width: 190%;
+      } */
+
+    /*  .modal-content{
+          width: 1200px;
+
+      }
+
+      .modal-footer{
+          justify-content: space-between;
+      }
+
+
+      #exampleModal{
+          width: 5000px;
+          font-size: 50px;
+      }
+
+      #exampleModalLabel{
+          font-size: 70px;
+      }
+
+
+      .container{
+          font-size: 70px;
+          height: 300px;
+      }
+
+      .cards__container{
+          display: flex;
+          gap: 100;
+      }
+
+      .form-control{
+          font-size: 60px;
+          width: 100%;
+      }
+
+      .input-group-text{
+          width: 100px;
+      }
+
+      .card{
+          width: 900px;
+          margin-right: 700px;
+      }
+
+      .card-img-top{
+          height: 1200px;
+      }
+
+      .card-header{
+          height: 160px;
+      }
+
+      .card-body{
+          height: 300px;
+          font-size: 50px;
+          margin-bottom: 50px;
+      }
+
+      .card-title{
+          font-size: 70px;
+
+      }
+
+      .card-footer{
+          height: 200px;
+          padding-top: 150px;
+          justify-content: space-between;
+      }
+
+      .btn{
+          font-size: 60px;
+          margin-top: 50px;
+      }
+  }  */

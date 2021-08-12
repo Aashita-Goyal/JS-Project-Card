@@ -6,7 +6,7 @@ let globalStore = [];
 
 const generateNewCard = (taskData) => `
 <div class="col-md-6 col-lg-4">
-                        <div class="card">
+                        <div class="card mb-4">
                             <div class="card-header d-flex justify-content-end gap-2">
                                 <button type="button" class="btn btn-success" id=${taskData.id} onclick= "editCard.apply(this, arguments)">
                                 <i class="fas fa-pencil-alt" id=${taskData.id} onclick= "editCard.apply(this, arguments)"></i>
